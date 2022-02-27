@@ -1,0 +1,2 @@
+jupyter
+pycaret==2.3.6

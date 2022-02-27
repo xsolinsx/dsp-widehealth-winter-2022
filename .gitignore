@@ -1,0 +1,5 @@
+.venv
+code_samples
+*.lst
+*.csv
+*.code-workspace
